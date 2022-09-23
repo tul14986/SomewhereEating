@@ -4,4 +4,7 @@ This is a web application using react, node, HTML/CSS, JavaScript and the Zomato
 
 Requirements:  
 -Installed Node.JS      
--Installed npm
+-Installed npm  
+
+
+Users will access this application through a web browser.
